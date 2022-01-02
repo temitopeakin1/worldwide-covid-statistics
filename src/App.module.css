@@ -10,7 +10,7 @@ body {
 }
 
 .image {
-    width: 370px;
+    width: 100px;
     margin-top: 50px;
 }
 
@@ -20,6 +20,6 @@ body {
     }
 
     .image {
-        width: 100%;
+        width: 80px;
     }
 }
